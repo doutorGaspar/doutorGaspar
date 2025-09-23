@@ -1,16 +1,18 @@
-## Hi there 👋
+🎮I'm a Licensed Game Development Engineering in IPCA, Barcelos. 
 
-<!--
-**doutorGaspar/doutorGaspar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏾‍💻Currently studying Engineering Master's Degree at IPCA, Barcelos.
 
-Here are some ideas to get you started:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doutorGaspar&layout=compact&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=next)
+![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
+![C++](https://skillicons.dev/icons?i=cpp)
+![C#](https://skillicons.dev/icons?i=cs)
+![HTML5](https://skillicons.dev/icons?i=html)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Kotlin](https://skillicons.dev/icons?i=kotlin)
+![Python](https://skillicons.dev/icons?i=python)
+![Swift](https://skillicons.dev/icons?i=swift)
+![TypeScript](https://skillicons.dev/icons?i=ts)
