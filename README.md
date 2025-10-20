@@ -2,9 +2,6 @@
 
 👨🏾‍💻Currently studying Engineering Master's Degree at IPCA, Barcelos.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doutorGaspar&layout=compact&theme=radical)
-
-
 ![React](https://skillicons.dev/icons?i=react)
 ![Next.js](https://skillicons.dev/icons?i=next)
 ![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
